@@ -1,4 +1,4 @@
-https://mjzack424.github.io/contact-manager/contacts
+https://mjzack424.github.io/contact-manager
 
 # Getting Started with Create React App
 
